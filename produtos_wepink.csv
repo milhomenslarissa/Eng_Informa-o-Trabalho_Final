@@ -1,0 +1,31 @@
+ID_Produto,Nome_Produto,Categoria,Preco_Custo,Preco_Venda
+1,Perfume Red,Perfumaria,80.0,249.9
+2,Perfume Gold,Perfumaria,85.0,259.9
+3,Perfume Virgin,Perfumaria,75.0,239.9
+4,Body Splash Vanilla,Perfumaria,25.0,89.9
+5,Body Splash Candy,Perfumaria,25.0,89.9
+6,Perfume de Bolso (Pocket),Perfumaria,15.0,49.9
+7,Sérum 10 em 1,Skincare Facial,40.0,149.9
+8,Espuma de Limpeza,Skincare Facial,15.0,69.9
+9,Hidratante Facial Noturno,Skincare Facial,35.0,119.9
+10,Protetor Solar com Cor,Skincare Facial,30.0,99.9
+11,Água Micelar,Skincare Facial,12.0,45.9
+12,Máscara de Argila Rosa,Skincare Facial,18.0,59.9
+13,Sérum Vitamina C,Skincare Facial,38.0,139.9
+14,Hidratante Corporal Iluminador,Body Care,22.0,79.9
+15,Esfoliante de Melancia,Body Care,20.0,74.9
+16,Óleo Corporal Bifásico,Body Care,25.0,89.9
+17,Creme para Mãos,Body Care,10.0,34.9
+18,Desodorante Serum,Body Care,14.0,42.9
+19,Manteiga Corporal Extra Hidratante,Body Care,28.0,94.9
+20,Shampoo de Crescimento,Cabelos,18.0,59.9
+21,Condicionador Selante,Cabelos,19.0,62.9
+22,Máscara de Reconstrução,Cabelos,25.0,89.9
+23,Óleo Reparador de Pontas,Cabelos,15.0,54.9
+24,Leave-in Protetor Térmico,Cabelos,17.0,58.9
+25,Tônico Capilar,Cabelos,22.0,79.9
+26,Base Alta Cobertura,Maquiagem,35.0,129.9
+27,Corretivo Líquido,Maquiagem,20.0,69.9
+28,Gloss Labial com Volume,Maquiagem,15.0,59.9
+29,Blush Cremoso,Maquiagem,18.0,64.9
+30,Bruma Fixadora com Brilho,Maquiagem,20.0,79.9

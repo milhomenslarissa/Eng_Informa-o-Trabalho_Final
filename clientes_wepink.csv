@@ -1,0 +1,81 @@
+ID_Cliente,Nome_Completo,CPF,Cidade,Estado
+1,Nicolas Teixeira,904.315.728-79,Siqueira,MT
+2,Asafe Novais,075.382.164-80,Jesus do Galho,MG
+3,Ana Cecília Teixeira,593.018.762-21,Correia,SC
+4,Ana Vitória Sousa,926.840.715-94,da Cunha,ES
+5,Mateus Andrade,925.084.671-11,Pereira,RN
+6,Bianca da Rocha,508.369.714-93,Costa do Norte,PB
+7,Sr. Gael Henrique Aragão,574.132.960-80,da Cruz,AM
+8,Ana da Cruz,239.860.145-51,Cavalcante do Sul,PR
+9,Breno Sá,743.026.981-87,Casa Grande,ES
+10,Maria Flor Lima,246.058.719-85,Silveira Paulista,MS
+11,Yago Costela,132.546.087-71,Fernandes,PA
+12,Maria Eduarda Martins,073.196.428-40,Abreu,RO
+13,Ana Luiza Teixeira,753.182.460-44,Câmara de Goiás,DF
+14,Srta. Isabel Fernandes,876.901.234-22,Oliveira Paulista,CE
+15,Heitor Cardoso,871.420.653-62,Nogueira das Pedras,PI
+16,Srta. Agatha Silveira,649.827.315-19,Fogaça,PB
+17,Srta. Liz Fogaça,243.785.690-00,da Conceição,CE
+18,Dr. Vinicius da Conceição,816.327.409-31,Martins,AC
+19,Sr. João Lucas Nogueira,086.231.549-24,Moura,AL
+20,Pietro Carvalho,590.263.817-86,Freitas,SC
+21,Dr. Davi Miguel Teixeira,821.543.906-33,Mendonça,AM
+22,Gabrielly Nunes,927.084.651-20,Mendonça,AC
+23,Rafaela da Mota,421.579.380-79,Guerra das Pedras,AL
+24,Anthony Novais,972.056.348-65,Teixeira de Goiás,RN
+25,Theo Abreu,701.289.463-69,Abreu da Mata,PI
+26,Leonardo Aragão,284.536.071-17,da Paz de Almeida,SP
+27,Ana Carolina Albuquerque,523.176.849-91,da Cruz,MG
+28,Heloísa Alves,792.501.834-88,Duarte Grande,AM
+29,Rafaela Cavalcante,823.679.504-74,das Neves de Minas,MA
+30,Luiza Leão,380.721.954-41,Cavalcanti,PE
+31,Agatha da Cunha,810.365.429-98,Cirino,AC
+32,Liz Ribeiro,391.647.805-20,Pinto,MT
+33,Dr. Anthony Campos,540.926.783-47,Sousa,RJ
+34,Thales Farias,756.290.481-20,Vieira,MS
+35,Srta. Giovanna Sales,261.093.574-99,Guerra de Camargo,AC
+36,José Pedro Marques,570.149.836-01,Dias,AC
+37,Ana Lívia Novais,056.418.792-58,da Paz,AP
+38,Vitor Hugo Freitas,307.421.658-17,Fernandes,AP
+39,Ana Clara Costa,356.928.407-74,Borges,PI
+40,Aylla da Rocha,183.457.069-75,Porto,MS
+41,Ana da Cruz,408.592.376-56,Siqueira da Praia,RO
+42,Hellena Rodrigues,357.981.624-19,Fogaça dos Dourados,AC
+43,Nicole Lima,427.516.903-43,Moreira,MS
+44,Dr. Enrico Vasconcelos,120.758.364-26,Rodrigues Paulista,ES
+45,Hadassa da Conceição,432.819.675-82,Barbosa da Prata,SE
+46,Marcos Vinicius Moraes,409.263.875-29,Silveira de Souza,RJ
+47,Ryan Machado,698.231.745-55,Sampaio,ES
+48,Sophia Vargas,296.158.304-70,Pires,MG
+49,Pedro Lucas Pinto,621.738.905-30,Camargo de Goiás,MT
+50,Aylla Mendonça,931.620.487-96,Pinto,RR
+51,Murilo Rios,286.341.759-28,Duarte,AM
+52,Leonardo Costa,360.471.952-61,Pires da Serra,AP
+53,Arthur Gabriel Monteiro,805.736.129-86,Fogaça,ES
+54,Ana Sophia Costa,814.723.956-46,Pimenta,CE
+55,Brayan Teixeira,984.315.720-60,da Cruz do Amparo,RJ
+56,Ana Liz Nunes,837.461.905-84,Sousa do Galho,MA
+57,Sr. Benjamim Vasconcelos,431.876.509-10,Abreu do Oeste,RS
+58,Rafael Ribeiro,643.871.250-71,Cassiano,RR
+59,Joaquim Freitas,540.938.621-33,Lima de Fernandes,SE
+60,Ísis Dias,136.495.807-48,Ramos,GO
+61,Pedro Lucas Martins,213.549.876-91,Correia do Sul,SP
+62,Henry Fernandes,210.438.965-89,Novaes da Mata,PR
+63,Anthony Gabriel Melo,087.632.914-87,Pereira,PI
+64,Maria Alice Vasconcelos,204.758.613-53,Rocha do Oeste,SC
+65,Marcela Martins,057.493.186-48,da Paz,PI
+66,Erick Nogueira,051.824.973-50,Macedo de Minas,AL
+67,Giovanna Pimenta,345.127.098-60,Viana de Minas,RO
+68,Kamilly Cavalcante,920.167.543-70,Sampaio,PI
+69,Sr. Theo Aparecida,280.459.137-97,Dias,MA
+70,Sr. Vitor Sampaio,510.432.978-04,Pinto,AM
+71,Ísis da Cruz,687.215.394-64,Cassiano da Praia,TO
+72,Sara Ferreira,495.712.068-49,Sousa de Cirino,MS
+73,Fernanda Pacheco,806.457.391-20,Rocha,PE
+74,Dr. José Pedro Jesus,530.497.682-74,Lopes,RO
+75,Maria Luísa Macedo,953.204.687-92,Aragão do Amparo,PA
+76,Arthur Gabriel Câmara,459.861.320-33,Fernandes da Serra,PB
+77,Dr. Eduardo Farias,038.749.621-13,Cavalcante,GO
+78,Esther Fonseca,381.457.206-80,Rocha de Goiás,DF
+79,Nicolas Carvalho,310.569.782-95,das Neves,GO
+80,Calebe Jesus,015.632.894-15,da Rocha,MA
