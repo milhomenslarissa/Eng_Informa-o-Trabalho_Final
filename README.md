@@ -10,7 +10,7 @@ A presente análise justifica a escolha da empresa **WePink** como objeto de est
 ### 🎯 Objetivos da Solução
 * **Integração Relacional**: O projeto foi desenhado para converter arquivos isolados de Clientes, Produtos e Vendas em um banco de dados **PostgreSQL** estruturado, respeitando as regras de integridade referencial.
 * **Enriquecimento de Informação**: Implementação de uma lógica de **ETL** capaz de cruzar o ID do produto vendido com a tabela mestre de preços via *Stream Lookup*. Isso permitiu calcular o **montante total** de cada transação de forma automática.
-* **Tomada de Decisão**: Consolidação dos dados no **Metabase**, transformando 1000 registros de vendas em indicadores visuais de faturamento e desempenho por categoria.
+* **Tomada de Decisão**: Consolidação dos dados no **BI**, transformando 1000 registros de vendas em indicadores visuais de faturamento e desempenho por categoria.
 
 ---
 
