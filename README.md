@@ -1,4 +1,4 @@
-# 🚀 Projeto ETL WePink - Ecossistema de BI
+# Projeto ETL WePink - Ecossistema de BI
 
 ## 📝 2. Análise do Projeto
 A presente análise justifica a escolha da empresa **WePink** como objeto de estudo para o desenvolvimento deste ecossistema de dados. O projeto foca na transição de um modelo de dados desestruturado para um ambiente de **Business Intelligence (BI)** robusto.
